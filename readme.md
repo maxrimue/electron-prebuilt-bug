@@ -14,3 +14,6 @@ If the dialog immediately opened and closed, you're probably not affected by thi
 As it seems, following circumstances are required for this bug to show up:
   - Running the Electron App via `electron .` (with `electron-prebuilt` installed)
   - OS is OS X
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/maxrimue/electron-prebuilt-bug.svg)](https://greenkeeper.io/)
